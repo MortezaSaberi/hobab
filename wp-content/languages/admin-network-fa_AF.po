@@ -1,0 +1,1405 @@
+# Translation of WordPress - 5.7.x - Development - Administration - Network Admin in Persian (Afghanistan)
+# This file is distributed under the same license as the WordPress - 5.7.x - Development - Administration - Network Admin package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-11 15:30:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fa\n"
+"Project-Id-Version: WordPress - 5.7.x - Development - Administration - Network Admin\n"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:293
+msgctxt "site"
+msgid "Not spam"
+msgstr "مزاحم نیست"
+
+#. translators: %s: Number of themes.
+#: wp-admin/network/themes.php:410
+msgid "%s theme will no longer be auto-updated."
+msgid_plural "%s themes will no longer be auto-updated."
+msgstr[0] "%s نگارنما تجدید خودکار نخواهند شد."
+
+#. translators: %s: Number of themes.
+#: wp-admin/network/themes.php:401
+msgid "%s theme will be auto-updated."
+msgid_plural "%s themes will be auto-updated."
+msgstr[0] "%s  نگارنما تجدید خودکار خواهند شد."
+
+#: wp-admin/network/themes.php:225
+msgid "Sorry, you are not allowed to change themes automatic update settings."
+msgstr "میبخشید، شما حق تغیر در تنضیمات تجدید خودکار را ندارید."
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:321
+msgid "No themes are currently available."
+msgstr "هیچ نگارنمایی و در حال حاضر موجود نیست."
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:477
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:498
+#: wp-admin/includes/class-wp-ms-users-list-table.php:336
+msgid "Y/m/d g:i:s a"
+msgstr "Y/m/d g:i:s a"
+
+#: wp-admin/includes/network.php:629
+msgid "https://wordpress.org/support/article/nginx/"
+msgstr "https://wordpress.org/support/article/nginx/"
+
+#. translators: %s: Documentation URL.
+#: wp-admin/includes/network.php:628
+msgid "It seems your network is running with Nginx web server. <a href=\"%s\">Learn more about further configuration</a>."
+msgstr "چنین بنظر میرسد که شبکۀ شما با سرور نیگنکس Nginx  کارمیکند. <a href=\"%s\">معلومات مزید در مورد تنضیمات </a>."
+
+#. translators: %s: Number of sites.
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:254
+msgid "Deleted <span class=\"count\">(%s)</span>"
+msgid_plural "Deleted <span class=\"count\">(%s)</span>"
+msgstr[0] "حذف <span class=\"count\">(%s)</span>"
+
+#. translators: %s: Number of sites.
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:247
+msgctxt "sites"
+msgid "Spam <span class=\"count\">(%s)</span>"
+msgid_plural "Spam <span class=\"count\">(%s)</span>"
+msgstr[0] "مزاحم <span class=\"count\">(%s)</span>"
+
+#. translators: %s: Number of sites.
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:241
+msgid "Mature <span class=\"count\">(%s)</span>"
+msgid_plural "Mature <span class=\"count\">(%s)</span>"
+msgstr[0] "بالغ <span class=\"count\">(%s)</span>"
+
+#. translators: %s: Number of sites.
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:235
+msgid "Archived <span class=\"count\">(%s)</span>"
+msgid_plural "Archived <span class=\"count\">(%s)</span>"
+msgstr[0] "آرشیف <span class=\"count\">(%s)</span>"
+
+#. translators: %s: Number of sites.
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:229
+msgid "Public <span class=\"count\">(%s)</span>"
+msgid_plural "Public <span class=\"count\">(%s)</span>"
+msgstr[0] "عامه <span class=\"count\">(%s)</span>"
+
+#. translators: %s: Number of sites.
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:222
+msgctxt "sites"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "همه <span class=\"count\">(%s)</span>"
+
+#: wp-admin/network/upgrade.php:31
+msgid "<a href=\"https://wordpress.org/support/article/network-admin-updates-screen/\">Documentation on Upgrade Network</a>"
+msgstr "<a href=\"https://wordpress.org/support/article/network-admin-updates-screen/\">مستندات تجدید شبکه</a>"
+
+#: wp-admin/network/index.php:55
+msgid "<a href=\"https://wordpress.org/support/article/network-admin/\">Documentation on the Network Admin</a>"
+msgstr "<a href=\"https://wordpress.org/support/article/network-admin/\">  مستندات برای مدیر شبکه</a>"
+
+#. translators: %s: Number of themes.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:406
+msgctxt "themes"
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "تجدید شفر موجود است <span class=\"count\">(%s)</span>"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:616
+msgid "Main"
+msgstr "اصلی"
+
+#: wp-admin/network.php:67 wp-admin/network.php:80
+msgid "<a href=\"https://wordpress.org/support/article/tools-network-screen/\">Documentation on the Network Screen</a>"
+msgstr "<a href=\"https://wordpress.org/support/article/tools-network-screen/\">مستندات صفحهٔ نمایش شبکه</a>"
+
+#: wp-admin/network.php:66 wp-admin/network.php:79
+msgid "<a href=\"https://wordpress.org/support/article/create-a-network/\">Documentation on Creating a Network</a>"
+msgstr "<a href=\"https://wordpress.org/support/article/create-a-network/\">مستندات ساختن شبکه</a>"
+
+#. translators: %s: DO_NOT_UPGRADE_GLOBAL_TABLES
+#: wp-admin/includes/network.php:118
+msgid "The constant %s cannot be defined when creating a network."
+msgstr "ثابت %s  در حلیکه ایجاد شبکه میشود ممکن نیست."
+
+#: wp-admin/network/sites.php:195
+msgid "You are about to delete the following sites:"
+msgstr "شما در شُرف حذف جولانما های ذیل هستید:"
+
+#: wp-admin/network/site-users.php:243
+msgid "User could not be added to this site."
+msgstr "کاربر در جولانما افزوده نشد."
+
+#: wp-admin/network/site-new.php:263
+msgid "The username and a link to set the password will be mailed to this email address."
+msgstr "نام کاربر و واصل برای تعین رمز به این ایمیل ارسال خواهد شد."
+
+#. translators: %s: New network admin email.
+#: wp-admin/network/settings.php:175
+msgid "There is a pending change of the network admin email to %s."
+msgstr "تغیر ایمیل مدیر شبک به  %s در حال تعلیق است."
+
+#: wp-admin/includes/network.php:332
+msgid "Sub-domain Installation"
+msgstr "نصب جولانمای فرعی"
+
+#: wp-admin/includes/network.php:301 wp-admin/includes/network.php:319
+msgid "Sub-directory Installation"
+msgstr "نصب فهرست فرعی"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:909
+msgid "Active Child Theme"
+msgstr "نگارنمای فعالِ اولاد (فرعی)"
+
+#: wp-admin/network/site-info.php:193
+msgid "Attributes"
+msgstr "صفات"
+
+#. translators: %s: File size in kilobytes.
+#: wp-admin/network/settings.php:407
+msgid "%s KB"
+msgstr " %s کیلوبایت"
+
+#. translators: %s: Default network title.
+#: wp-admin/includes/network.php:172
+msgid "%s Sites"
+msgstr "جولانما ها %s "
+
+#. translators: %s: Theme name.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:624
+msgctxt "theme"
+msgid "Delete %s"
+msgstr "%s  حذف"
+
+#: wp-admin/network/themes.php:101
+msgid "Sorry, you are not allowed to delete themes for this site."
+msgstr "میبخشید، شما حق حذف نگارنماها برای این جولانما را ندارید."
+
+#: wp-admin/network/themes.php:14
+msgid "Sorry, you are not allowed to manage network themes."
+msgstr "میبخشید، شما حق مدیریت شبکۀ نگارنما را ندارید."
+
+#: wp-admin/network/sites.php:320
+msgid "Sorry, you are not allowed to delete that site."
+msgstr "میبخشید، شما حق حذف جولانما را ندارید."
+
+#: wp-admin/network/site-themes.php:14
+msgid "Sorry, you are not allowed to manage themes for this site."
+msgstr "میبخشید، شما حق مدیریت نگارنما ها برای این جولانما را ندارید."
+
+#: wp-admin/network/site-new.php:17
+msgid "Sorry, you are not allowed to add sites to this network."
+msgstr "میبخشید، شما حق افزدون جولانما به این شبکه را ندارید."
+
+#: wp-admin/network/site-info.php:14 wp-admin/network/site-users.php:14
+#: wp-admin/network/site-settings.php:14
+msgid "Sorry, you are not allowed to edit this site."
+msgstr "میبخشید، شما حق تدوین این جولانما راندارید."
+
+#: wp-admin/network/settings.php:357
+msgid "The email address of the first comment author on a new site."
+msgstr " نشانی ایمیل مؤلف اولین نظردر جولانمای جدید."
+
+#: wp-admin/network/settings.php:353
+msgid "First Comment Email"
+msgstr "ایمیل نظر اول"
+
+#: wp-admin/includes/network.php:485
+msgid "That&#8217;s all, stop editing! Happy publishing."
+msgstr "خیلی خوب. تدویم کافیست.  نشر بخیر."
+
+#. translators: 1: wp-config.php, 2: Location of wp-config file, 3: Translated
+#. version of "That's all, stop editing! Happy publishing."
+#: wp-admin/includes/network.php:477
+msgid "Add the following to your %1$s file in %2$s <strong>above</strong> the line reading %3$s:"
+msgstr "موارد زیر را به پرونده‌ی %1$s در %2$s <strong>بالای</strong> خط %3$s اضافه کنید."
+
+#. translators: 1: Theme name, 2: Theme author.
+#: wp-admin/network/themes.php:149
+msgctxt "theme"
+msgid "%1$s by %2$s"
+msgstr "%1$s توسط %2$s"
+
+#: wp-admin/network/site-new.php:219
+msgid "Only lowercase letters (a-z), numbers, and hyphens are allowed."
+msgstr "تنها حروف کوچک (a-z) و اعداد و خط فاصله مجاز هستند."
+
+#. translators: %s: wp-config.php
+#: wp-admin/includes/network.php:540
+msgid "These unique authentication keys are also missing from your %s file."
+msgstr "کلید تکی تعین هویت برای ملف %s گم است."
+
+#. translators: %s: wp-config.php
+#: wp-admin/includes/network.php:534
+msgid "This unique authentication key is also missing from your %s file."
+msgstr "کلید تکی تعین هویت همچنان برای ملف %s گم است."
+
+#. translators: %s: wp-config.php
+#: wp-admin/includes/network.php:463
+msgid "We recommend you back up your existing %s file."
+msgstr "ما توصیه میکنیم تا ملف %s  احتیاطی سازی شود."
+
+#. translators: 1: wp-config.php, 2: .htaccess
+#. translators: 1: wp-config.php, 2: web.config
+#: wp-admin/includes/network.php:447 wp-admin/includes/network.php:455
+msgid "We recommend you back up your existing %1$s and %2$s files."
+msgstr "مااحتیاطی سازی ملف های %1$s و%2$s را توصیه میکنیم."
+
+#. translators: 1: localhost, 2: localhost.localdomain
+#: wp-admin/includes/network.php:306
+msgid "Because you are using %1$s, the sites in your WordPress network must use sub-directories. Consider using %2$s if you wish to use sub-domains."
+msgstr "بخاطر اینکه شما از %1$s استفاده میکنید، جولانمای شما در وردپرس حتمی فهرت فرعی را استفاده کند.  اگر میخواهید نام جولانمای فرعی استفاده کنید بهتر است از %2$s استفاده کنید."
+
+#. translators: %s: Host name.
+#: wp-admin/includes/network.php:288 wp-admin/includes/network.php:348
+msgid "The internet address of your network will be %s."
+msgstr "نشانی انترنتی شبکۀ شما  %s خواهد بود."
+
+#. translators: 1: Site URL, 2: Host name, 3: www.
+#: wp-admin/includes/network.php:274
+msgid "We recommend you change your site domain to %1$s before enabling the network feature. It will still be possible to visit your site using the %3$s prefix with an address like %2$s but any links will not have the %3$s prefix."
+msgstr "توصیه میکنیم تا مدیر جولانما را قبل از فعال ساختن خاصیت شبکه به %1$s تبدیل کنید. هنوز هم با استفاده از پیشینۀ %3$s  و نشانی %2$s میتوانید از جولانمای تان دیدار کنید.  اما هر واصل این %3$s اختصار را در شروع خواهد داشت."
+
+#: wp-admin/includes/network.php:229
+msgid "You cannot change this later."
+msgstr "شما نمیتوانید این را بعداً تغییر دهید."
+
+#: wp-admin/includes/network.php:228
+msgid "Please choose whether you would like sites in your WordPress network to use sub-domains or sub-directories."
+msgstr "لطفاً انتخاب کنید که آیا دوست دارید جولانمای تان در شبکۀ وردپرس نام فرعی را استفاده کنید یا فهرست فرعی را."
+
+#. translators: 1: mod_rewrite, 2: mod_rewrite documentation URL, 3: Google
+#. search for mod_rewrite.
+#: wp-admin/includes/network.php:216
+msgid "If %1$s is disabled, ask your administrator to enable that module, or look at the <a href=\"%2$s\">Apache documentation</a> or <a href=\"%3$s\">elsewhere</a> for help setting it up."
+msgstr "اگر %1$s غیرفعال شده است از مدیر تان بخواهید که این جزوه را فعال کند  ویا نگاهی به  <a href=\"%2$s\">مستندات اَپَه چی</a> نگاهی بیاندازید و یا برای کمک به جایی <a href=\"%3$s\">دیگری</a> برا ی تنظیم مراجعه کنید."
+
+#. translators: %s: mod_rewrite
+#: wp-admin/includes/network.php:206
+msgid "It looks like the Apache %s module is not installed."
+msgstr "چنین بنظر میرسد که جزوۀ  %s اَپَه چی نصب نشده است. "
+
+#. translators: %s: mod_rewrite
+#: wp-admin/includes/network.php:198
+msgid "Please make sure the Apache %s module is installed as it will be used at the end of this installation."
+msgstr "لطفاً از نصب جزوۀ %s اَپَه چی اطمینان حاصل کنید زیرا در قسمت اخیر نصب به آن نیاز است."
+
+#. translators: %s: Port number.
+#: wp-admin/includes/network.php:145
+msgid "You cannot use port numbers such as %s."
+msgstr "شما دریچه های با شمارۀ %s را نمیتوانید استفاده کنید."
+
+#: wp-admin/includes/class-wp-ms-users-list-table.php:200
+msgctxt "user"
+msgid "Registered"
+msgstr "ثبت شده"
+
+#. translators: Number of users.
+#: wp-admin/includes/class-wp-ms-users-list-table.php:164
+msgid "Super Admin <span class=\"count\">(%s)</span>"
+msgid_plural "Super Admins <span class=\"count\">(%s)</span>"
+msgstr[0] "مدیر عمومی<span class=\"count\">(%s)</span>"
+
+#: wp-admin/includes/class-wp-ms-users-list-table.php:118
+msgctxt "user"
+msgid "Not spam"
+msgstr "مزاحم نیست"
+
+#: wp-admin/includes/class-wp-ms-users-list-table.php:117
+msgctxt "user"
+msgid "Mark as spam"
+msgstr "مزاحم است"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:727
+msgid "Visit Theme Site"
+msgstr "دیدن نگارنما"
+
+#. translators: %s: Theme name.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:721
+msgid "Visit %s homepage"
+msgstr "دیدن %s  صفحۀ اصلی"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:690
+msgid "Broken Theme:"
+msgstr "نگارنمای ازکارافتاده"
+
+#. translators: %s: Theme name.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:596
+msgid "Network Disable %s"
+msgstr "شبکۀ  %s غیرفعال"
+
+#. translators: %s: Theme name.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:593
+msgid "Disable %s"
+msgstr " %s غیرفعال"
+
+#. translators: %s: Theme name.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:570
+msgid "Network Enable %s"
+msgstr "شبکۀ %s فعال"
+
+#. translators: %s: Theme name.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:567
+msgid "Enable %s"
+msgstr "%s فعال"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:472
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:603
+msgid "Network Disable"
+msgstr "شبکه غیرفعال"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:472
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:603
+msgid "Disable"
+msgstr "غیرفعال"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:469
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:577
+msgid "Enable"
+msgstr "فعال"
+
+#. translators: %s: Number of themes.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:415
+msgctxt "themes"
+msgid "Broken <span class=\"count\">(%s)</span>"
+msgid_plural "Broken <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> خراب است"
+
+#. translators: %s: Number of themes.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:397
+msgctxt "themes"
+msgid "Disabled <span class=\"count\">(%s)</span>"
+msgid_plural "Disabled <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> غیرفعال"
+
+#. translators: %s: Number of themes.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:388
+msgctxt "themes"
+msgid "Enabled <span class=\"count\">(%s)</span>"
+msgid_plural "Enabled <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> فعال شده"
+
+#. translators: %s: Number of themes.
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:379
+msgctxt "themes"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> همه"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:331
+msgid "Theme"
+msgstr "نگارنما"
+
+#: wp-admin/includes/class-wp-ms-themes-list-table.php:319
+msgid "No themes found."
+msgstr " نگارنما یافت شد."
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:706
+msgctxt "verb; site"
+msgid "Archive"
+msgstr "آرشیف"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:704
+msgid "Unarchive"
+msgstr "از آرشیف کشیدن"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:480
+msgid "Never"
+msgstr "هرگز"
+
+#. translators: 1: Site title, 2: Site tagline.
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:453
+msgid "%1$s &#8211; %2$s"
+msgstr "%1$s &#8211; %2$s"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:365
+#: wp-admin/network/site-info.php:176
+msgctxt "site"
+msgid "Registered"
+msgstr "ثبت شده"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:364
+#: wp-admin/network/site-info.php:180
+msgid "Last Updated"
+msgstr "آخرین تجدید شده ها"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:710
+msgctxt "site"
+msgid "Not Spam"
+msgstr "مزاحم نیست"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:292
+msgctxt "site"
+msgid "Mark as spam"
+msgstr "مزاحم است"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:207
+msgid "No sites found."
+msgstr "جولانمایی یافت نشد"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:42
+#: wp-admin/network/site-info.php:190
+msgid "Mature"
+msgstr "بالغ"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:41
+#: wp-admin/network/site-info.php:188
+msgid "Deleted"
+msgstr "حذف شده"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:40
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:712
+#: wp-admin/network/site-info.php:187
+msgctxt "site"
+msgid "Spam"
+msgstr "مزاحم"
+
+#: wp-admin/includes/class-wp-ms-sites-list-table.php:39
+#: wp-admin/network/site-info.php:186
+msgid "Archived"
+msgstr "آرشیف شده"
+
+#: wp-admin/network/user-new.php:136 wp-admin/network/site-users.php:355
+msgid "A password reset link will be sent to the user via email."
+msgstr "واصل  اعادۀ رمز برای کاربر ذریعۀ ایمیل ارسال خواهد شد."
+
+#. translators: 1: NOBLOGREDIRECT, 2: wp-config.php
+#: wp-admin/network/settings.php:212
+msgid "If registration is disabled, please set %1$s in %2$s to a URL you will redirect visitors to if they visit a non-existent site."
+msgstr "ثبت نام غیرفعال شده است.لطفاً %1$s را در اینجا %2$s به یک موقعیت تعین کنید و بدین ترتیب اگر مراجعین به یک صفحۀ غیرموجود مراجعه کردند، به آنجا رخ شود."
+
+#. translators: 1: WP_ALLOW_MULTISITE, 2: wp-config.php
+#: wp-admin/network.php:44
+msgid "You must define the %1$s constant as true in your %2$s file to allow creation of a Network."
+msgstr "شما باید مقدار ثابت %1$s را در ملف %2$s برابر با true تنظیم کنید تا اجازهٔ ایجاد این شبکه را داشته باشید."
+
+#: wp-admin/network/themes.php:331
+msgid "Themes list navigation"
+msgstr "پیمایش سجل صفحات"
+
+#: wp-admin/network/sites.php:52
+msgid "Sites list"
+msgstr "سجل جولانماها"
+
+#: wp-admin/network/sites.php:51
+msgid "Sites list navigation"
+msgstr "پیمایش سجل صفحات"
+
+#: wp-admin/network/site-users.php:27
+msgid "Site users list"
+msgstr "سجل کاربران جولانما"
+
+#: wp-admin/network/site-users.php:26
+msgid "Site users list navigation"
+msgstr "پیمایش سجل کاربران جولانما"
+
+#: wp-admin/network/site-users.php:25
+msgid "Filter site users list"
+msgstr "صافی کردن سجل کاربران جولانما"
+
+#: wp-admin/network/site-themes.php:24
+msgid "Site themes list"
+msgstr "سجل نگارنمای جولانما"
+
+#: wp-admin/network/site-themes.php:23
+msgid "Site themes list navigation"
+msgstr "پیمایش سجل نگارنماهای جولانما"
+
+#: wp-admin/network/site-themes.php:22
+msgid "Filter site themes list"
+msgstr "صافی کردن سجل نگارنما های جولانما"
+
+#: wp-admin/network/site-new.php:121
+msgid "The domain or path entered conflicts with an existing username."
+msgstr "نام دامنه یا مسیر وارده در تضاد با نام کابرهای موجود ایجاد میکند."
+
+#: wp-admin/network/sites.php:89
+msgid "The requested action is not valid."
+msgstr "تقاضای عمل باطل است."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:81
+msgid "You are about to mark the site %s as not mature."
+msgstr "شما در شُرُف علامت زدن جولانمای %s  به عنوان غیربالغ هستید."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:79
+msgid "You are about to mark the site %s as mature."
+msgstr "شما در شُرُف علامت زدن جولانمای %s  به عنوان بالغ هستید."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:77
+msgid "You are about to delete the site %s."
+msgstr "شما در شُرُف حذف جولانمای %s   هستید."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:75
+msgid "You are about to mark the site %s as spam."
+msgstr "شما در شُرُف علامت زدن جولانمای %s  به عنوان مزاحم هستید."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:73
+msgid "You are about to unspam the site %s."
+msgstr "شما در شُرُف علامت زدن جولانمای %s  به عنوان غیرمزاحم هستید."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:71
+msgid "You are about to archive the site %s."
+msgstr "شما در شُرُف  آرشیف نمودن جولانمای %s  هستید."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:69
+msgid "You are about to unarchive the site %s."
+msgstr "شما در شُرُف از  آرشیف کشیدن جولانمای %s  هستید."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:67
+msgid "You are about to deactivate the site %s."
+msgstr "شما در شُرُف غیرفعال نمودن جولانمای %s  هستید."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:65
+msgid "You are about to activate the site %s."
+msgstr "شما در شُرُف فعال نمودن جولانمای %s  هستید."
+
+#: wp-admin/network/site-info.php:28 wp-admin/network/site-users.php:46
+#: wp-admin/network/site-themes.php:53 wp-admin/network/site-settings.php:28
+msgid "The requested site does not exist."
+msgstr "جولانمای درخواستی وجود ندارد."
+
+#: wp-admin/network/user-new.php:29 wp-admin/network/users.php:230
+msgid "<a href=\"https://codex.wordpress.org/Network_Admin_Users_Screen\">Documentation on Network Users</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Network_Admin_Users_Screen\">  مستندات در مورد کاربران شبکه</a>"
+
+#: wp-admin/network/themes.php:323
+msgid "<a href=\"https://codex.wordpress.org/Network_Admin_Themes_Screen\">Documentation on Network Themes</a>"
+msgstr "<a href=\"https://codex.wordpress.org/Network_Admin_Themes_Screen\">مستندات در مورد نگارنماهای شبکه</a>"
+
+#. translators: 1: Site URL, 2: Server error message.
+#: wp-admin/network/upgrade.php:98
+msgid "Warning! Problem updating %1$s. Your server may not be able to connect to sites running on it. Error message: %2$s"
+msgstr "با خبر! مشکل در تجدید %1$s. شاید سرور تان نتواند به جولانماییی که روی آن سوار است ارتباط برقرار کند. پیام خطاء: %2$s"
+
+#. translators: %s: Number of themes.
+#: wp-admin/network/themes.php:392
+msgid "%s theme deleted."
+msgid_plural "%s themes deleted."
+msgstr[0] "نگارنمای %s حذف شد."
+
+#. translators: %s: Number of themes.
+#: wp-admin/network/themes.php:383 wp-admin/network/site-themes.php:204
+msgid "%s theme disabled."
+msgid_plural "%s themes disabled."
+msgstr[0] "نگارنمای %s غیرفعال شد."
+
+#. translators: %s: Number of themes.
+#: wp-admin/network/themes.php:374 wp-admin/network/site-themes.php:195
+msgid "%s theme enabled."
+msgid_plural "%s themes enabled."
+msgstr[0] "نگارنمای %s فعال شد."
+
+#: wp-admin/network/themes.php:175
+msgid "Yes, delete these themes"
+msgstr "بلی، این نگارنما ها حذف شوند"
+
+#: wp-admin/network/themes.php:142
+msgid "You are about to remove the following themes:"
+msgstr "شما در شُرف حذف  نگارنمای های ذیل هستید:"
+
+#: wp-admin/network/themes.php:141
+msgid "These themes may be active on other sites in the network."
+msgstr "این نگارنما ها احتمالا که در جولانما های دیگر شبکه فعال اند."
+
+#: wp-admin/network/themes.php:140
+msgid "Delete Themes"
+msgstr "حذف نگارنما."
+
+#: wp-admin/network/site-info.php:196
+msgid "Set site attributes"
+msgstr "تعین صفات جولانما"
+
+#: wp-admin/network/settings.php:479
+msgid "Enable menus"
+msgstr "فعال ساختن قائم"
+
+#: wp-admin/network/settings.php:412
+msgid "Size in kilobytes"
+msgstr "حجم به کیلوبایت"
+
+#: wp-admin/network/settings.php:396
+msgid "Allowed file types. Separate types by spaces."
+msgstr "انواع ملف مجاز. نوع را با فاصله جدا کنید."
+
+#: wp-admin/network/settings.php:202
+msgid "New registrations settings"
+msgstr "تنظیمات ثبت نام جدید"
+
+#. translators: 1: File name (.htaccess or web.config), 2: File path.
+#: wp-admin/includes/network.php:609 wp-admin/includes/network.php:662
+msgid "Add the following to your %1$s file in %2$s, <strong>replacing</strong> other WordPress rules:"
+msgstr "موراد ذیل %1$s را در ملف %2$s اضافه کنید، تا قوانین دیگر وردپرس را<strong>تبدیل</strong> کنید:"
+
+#: wp-admin/network/sites.php:114 wp-admin/network/sites.php:190
+msgid "Confirm your action"
+msgstr "عمل خود را تأیید کنید"
+
+#: wp-admin/network/users.php:220
+msgid "Hover over any user on the list to make the edit links appear. The Edit link on the left will take you to their Edit User profile page; the Edit link on the right by any site name goes to an Edit Site screen for that site."
+msgstr "روی نام هر کاربر درسجل بروید تا واصلهای تدوین نمایان شوند. واصل تدوین بخش راست شما را به صفحۀ تدوین مشخصات کاربر میبرد؛ واصل تدوین سمت چپ نام هر جولانما، به صفحۀ تدوین همان جولانما تعلق دارد."
+
+#: wp-admin/network/index.php:43
+msgid "To search for a site, <strong>enter the path or domain</strong>."
+msgstr "برای جستجوی یک جولانما، <strong>مسیر یا دامنه را وارد کنید</strong>."
+
+#: wp-admin/network/index.php:42
+msgid "To search for a user, <strong>enter an email address or username</strong>. Use a wildcard to search for a partial username, such as user&#42;."
+msgstr "برای جستجوی یک کاربر، <strong>یک ایمیل یا نام ‌کاربری را وارد کنید</strong>. برای جستجوی بخشی از نام‌ کاربری میتوانید از wildcard استفاده کنید."
+
+#: wp-admin/network/index.php:40
+msgid "To add a new site, <strong>click Create a New Site</strong>."
+msgstr "برای افزودن جولانمای جدید، <strong>روی افزودن جولانمای جدید کلیک کنید</strong>."
+
+#: wp-admin/network/index.php:39
+msgid "To add a new user, <strong>click Create a New User</strong>."
+msgstr "برای افزودن کاربر جدید، <strong>روی افزودن کاربر جدید کلیک کنید</strong>."
+
+#: wp-admin/network/index.php:48
+msgid "Quick Tasks"
+msgstr "اقدامات سریع"
+
+#: wp-admin/network/index.php:41
+msgid "To search for a user or site, use the search boxes."
+msgstr "برای جستجوی یک کاربر یا جولانما، از صندوقهای جستجو استفاده کنید."
+
+#: wp-admin/network/index.php:38
+msgid "The Right Now widget on this screen provides current user and site counts on your network."
+msgstr "قطعۀ مناسب تعاد جولانما های وتعداد کابران در شبکۀ تانرا در این صفحه نشان میدهد."
+
+#: wp-admin/network/index.php:28
+msgid "Modify global network settings"
+msgstr "تدوین تنظیمات سراسری"
+
+#: wp-admin/network/index.php:27
+msgid "Update your network"
+msgstr "تجدید شبکۀ تان"
+
+#: wp-admin/network/index.php:26
+msgid "Install and activate themes or plugins"
+msgstr "نصب یا فعال سازی  افزونکها"
+
+#: wp-admin/network/index.php:25
+msgid "Add and manage sites or users"
+msgstr "افزدون یا مدیریت جولانما های یا کاربران"
+
+#: wp-admin/network/index.php:24
+msgid "From here you can:"
+msgstr "از ینجا شمامیتوانید:"
+
+#: wp-admin/network/index.php:23
+msgid "Welcome to your Network Admin. This area of the Administration Screens is used for managing all aspects of your Multisite Network."
+msgstr " به مدیرت شبکه خوش آمدید.  این بخش صفحۀ مدیریت برای مدیریت تمام شئون شبکۀ چند جولایی را فراهم میکند."
+
+#: wp-admin/network/upgrade.php:140
+msgid "WordPress has been updated! Before we send you on your way, we need to individually upgrade the sites in your network."
+msgstr "وردپرس تجدید شد. قبل از اینکه پی کارتان بروید ، ما باید مشخصاً هر جولانما را در شبکۀ تان تجدید کنیم."
+
+#: wp-admin/network/upgrade.php:23
+msgid "Only use this screen once you have updated to a new version of WordPress through Updates/Available Updates (via the Network Administration navigation menu or the Toolbar). Clicking the Upgrade Network button will step through each site in the network, five at a time, and make sure any database updates are applied."
+msgstr "تنها زمانی از این صفحه استفاده کنید که وردپرس را (از طریق قائم های مدیریتی یا لوح ابزار) به نسخۀ تاره تجدید کرده باشید. با کلیک روی «ارتقای شبکه» عملیۀ تجدید سایت‌های موجود درشبکۀ شما در دسته‌های پنج تایی آغاز میشود. از اعمال تغییرات در مخزن اطمینان ‌خاطر حاصل کنید."
+
+#: wp-admin/network/upgrade.php:15 wp-admin/network/upgrade.php:42
+#: wp-admin/network/upgrade.php:144 wp-admin/network/menu.php:46
+msgid "Upgrade Network"
+msgstr "ارتقای شبکه"
+
+#: wp-admin/includes/network.php:263 wp-admin/includes/network.php:615
+#: wp-admin/includes/network.php:668
+msgid "Subdirectory networks may not be fully compatible with custom wp-content directories."
+msgstr "شبکه‌های زیردامنه شاید کاملاً با مسیرهای wp-content دلخواه سازگار نباشند."
+
+#: wp-admin/network.php:62
+msgid "Add the designated lines of code to wp-config.php (just before <code>/*...stop editing...*/</code>) and <code>.htaccess</code> (replacing the existing WordPress rules)."
+msgstr "پوشه‌ای با نام <code>blogs.dir</code> در پوشه <code>/wp-content</code> بسازید، سپس خطوط دستور تعیین شده را به مفلهای wp-config.php (درست قبل از <code>/*...stop editing...*/</code>) و <code>.htaccess</code> (به جای قوانین فعلی وردپرس) اضافه کنید."
+
+#: wp-admin/network/settings.php:423
+msgid "Language Settings"
+msgstr "تنظیمات زبان"
+
+#: wp-admin/network/settings.php:238
+msgid "Allow site administrators to add new users to their site via the \"Users &rarr; Add New\" page"
+msgstr "مدیران جولانما حق دارند  تا از طریق صفحه \"کاربران&rarr;افزودن\" کاربران تازه را به سایتشان اضافه کنند."
+
+#: wp-admin/network/settings.php:57
+msgid "Super admins can no longer be added on the Options screen. You must now go to the list of existing users on Network Admin > Users and click on Username or the Edit action link below that name. This goes to an Edit User page where you can check a box to grant super admin privileges."
+msgstr "مدیران عمومی را دیگر نمیتوانند در صفحه تنظیمات اضافه کرد. باید ابتدا به فهرست کاربران کنونی به نشانی، مدیر شبکه  کاربران، بروید و سپس روی نام‌کاربری یا پیوند ویرایش زیر هر نام کلیک کنید. حالا در صفحه تدوین کاربر هستید، در اینجا با گذاشتن تیک در کنار نام کاربران، میتوانید اختیارات مدیرکلی را در اختیار کاربران انتخابی قرا دهید."
+
+#: wp-admin/network/site-users.php:264
+msgid "Enter the username and email."
+msgstr "نام کاربری و ایمیل را وارد کنید."
+
+#: wp-admin/network/site-users.php:261
+msgid "User created."
+msgstr "کاربر ساخته شد."
+
+#: wp-admin/network/site-users.php:258
+msgid "Select a user to remove."
+msgstr "کاربری را برای حذف انتخاب نمایید."
+
+#: wp-admin/network/site-users.php:252
+msgid "Select a user to change role."
+msgstr "کاربری را برای تغییر نقش انتخاب کنید."
+
+#: wp-admin/network/site-users.php:246
+msgid "Enter the username of an existing user."
+msgstr "نام‌ کاربری یک کاربر موجود را وارد کنید."
+
+#: wp-admin/network/site-users.php:240
+msgid "User is already a member of this site."
+msgstr "این کاربر از قبل عضو این سایت است."
+
+#: wp-admin/network/site-settings.php:78
+msgid "Site options updated."
+msgstr "تنظیمات جولانما تجدید شد."
+
+#: wp-admin/network/site-new.php:177 wp-admin/network/site-new.php:187
+msgid "Add New Site"
+msgstr "افزودن جولانمای جدید"
+
+#. translators: 1: Dashboard URL, 2: Network admin edit URL.
+#: wp-admin/network/site-new.php:170
+msgid "Site added. <a href=\"%1$s\">Visit Dashboard</a> or <a href=\"%2$s\">Edit Site</a>"
+msgstr "جولانما اضافه شد.  <a href=\"%1$s\">دیدار لوح قیادت</a> یا  <a href=\"%2$s\">تدوین جولانما</a>"
+
+#: wp-admin/network/site-new.php:25
+msgid "This screen is for Super Admins to add new sites to the network. This is not affected by the registration settings."
+msgstr "این صفحۀ مدیرعمومی است تا جولانما به شبکه اضافه کند. این از تنظیمات ثبت نام متاثر نمیشود."
+
+#: wp-admin/network/site-info.php:121
+msgid "Site info updated."
+msgstr "معلومات جولانما تجدید شد."
+
+#: wp-admin/network/themes.php:416
+msgid "You cannot delete a theme while it is active on the main site."
+msgstr "شما نگارنمایی که در جولانمای اصلی فعال است را حذف کنید."
+
+#: wp-admin/network/themes.php:301
+msgid "Themes can be enabled on a site by site basis by the network admin on the Edit Site screen (which has a Themes tab); get there via the Edit action link on the All Sites screen. Only network admins are able to install or edit themes."
+msgstr "نگارنما ها برای هر جولانما بطور جداگانه توسط مدیر شبکه در صفحۀ تدوین جولانما (که زبانۀ نگارنما دارد) فعال میشوند و شما میتواند از طریق واصل عمل تدوین در صفحۀ تمام جولانماها وارد آنجا شوید.  تنها مدیر شبکۀ میتواند که نگارنما ها راتدوین یا نصب کند."
+
+#: wp-admin/network/themes.php:182
+msgid "No, return me to the theme list"
+msgstr "خیر، من را به سجل نگارنما ها بازگردانید"
+
+#: wp-admin/network/themes.php:173
+msgid "Yes, delete this theme"
+msgstr "بلی، این نگارنما  حذف شود"
+
+#: wp-admin/network/themes.php:159
+msgid "Are you sure you want to delete these themes?"
+msgstr "مطمئن هستید که میخوهید این نگار نما ها را حذف کنید؟"
+
+#: wp-admin/network/themes.php:138
+msgid "You are about to remove the following theme:"
+msgstr "شما در شُرف حذف  نگارنمای های ذیل هستید:"
+
+#: wp-admin/network/themes.php:137
+msgid "This theme may be active on other sites in the network."
+msgstr "این نگارنما ها احتمالا که در جولانما های دیگر شبکه فعال اند."
+
+#: wp-admin/network/themes.php:136
+msgid "Delete Theme"
+msgstr "حذف نگارنما"
+
+#: wp-admin/network/site-themes.php:212
+msgid "Network enabled themes are not shown on this screen."
+msgstr "نگارنمای فعال در شبکه در این صفحه نشان داده نمیشوند."
+
+#: wp-admin/network/themes.php:414 wp-admin/network/site-themes.php:208
+msgid "No theme selected."
+msgstr "هیچ نگارنمایی انتخاب نشده است."
+
+#: wp-admin/network/themes.php:380 wp-admin/network/site-themes.php:201
+msgid "Theme disabled."
+msgstr "نگارنمای غیرفعال شده."
+
+#: wp-admin/network/themes.php:371 wp-admin/network/site-themes.php:192
+msgid "Theme enabled."
+msgstr "نگار نمای فعال شده."
+
+#. translators: %s: Site title.
+#: wp-admin/network/site-info.php:126 wp-admin/network/site-users.php:199
+#: wp-admin/network/site-themes.php:170 wp-admin/network/site-settings.php:83
+msgid "Edit Site: %s"
+msgstr "تدوین جولانما: %s"
+
+#: wp-admin/network/site-info.php:23 wp-admin/network/site-users.php:41
+#: wp-admin/network/site-themes.php:46 wp-admin/network/site-settings.php:23
+msgid "Invalid site ID."
+msgstr "هویت جولانمای غیر معتبر."
+
+#. translators: %s: Site URL.
+#: wp-admin/network/sites.php:167
+msgid "Sorry, you are not allowed to delete the site %s."
+msgstr "میبخشید، شما حق حذف جولانمای %s را ندارید."
+
+#: wp-admin/network/sites.php:39
+msgid "Clicking on bold headings can re-sort this table."
+msgstr "کلیک کردن روی عناوین جسور باعث مرتب جدول میشود."
+
+#: wp-admin/network/sites.php:36
+msgid "Delete which is a permanent action after the confirmation screens."
+msgstr "حذف که یک عمل دایمی است در صفحات بعدی اجرا میشود."
+
+#: wp-admin/network/sites.php:34
+msgid "Dashboard leads to the Dashboard for that site."
+msgstr "لوح قیادت به لوح قیادت براین آن جولانما می انجامد."
+
+#: wp-admin/network/sites.php:33
+msgid "An Edit link to a separate Edit Site screen."
+msgstr "واصل تدوین برای صفحۀ تدوین جولانما."
+
+#: wp-admin/network/sites.php:30
+msgid "Add New takes you to the Add New Site screen. You can search for a site by Name, ID number, or IP address. Screen Options allows you to choose how many sites to display on one page."
+msgstr "\"افزدون جدید\" شما را به صفحۀ \"افزدون جدید\" میبرد.  شما میتوانید یک جولانما را ذریعۀ آی پی،  شمارۀ هویت یا نام جستجو کنید. اختیارات صفحه  برای تان این امکان رامیدهدی که چند جولانما در یک صفحه نشان داده شود."
+
+#: wp-admin/network/user-new.php:148 wp-admin/network/site-users.php:318
+msgid "Add User"
+msgstr "افزودن کاربر"
+
+#: wp-admin/network/user-new.php:55
+msgid "Cannot add user."
+msgstr "نمیتوان کاربر اضافه کرد."
+
+#: wp-admin/network/user-new.php:22
+msgid "Add User will set up a new user account on the network and send that person an email with username and password."
+msgstr "افزودن کاربر باعث میشود که یک کاربر جدید در شبکه  ایجاد شود و براین آن شخص یک ایمل مشتمل بر نام کابر و رمز ارسال کنید."
+
+#: wp-admin/network/menu.php:41
+msgid "Updates"
+msgstr "تجدیدات"
+
+#: wp-admin/network/settings.php:20 wp-admin/network/menu.php:111
+msgid "Network Settings"
+msgstr "تنظیمات شبکه"
+
+#: wp-admin/network/menu.php:80
+msgid "Installed Themes"
+msgstr "نگارنمای های نصب شده"
+
+#. translators: %s: Number of available theme updates.
+#: wp-admin/network/menu.php:63
+msgid "Themes %s"
+msgstr "نگارنمای ها %s"
+
+#: wp-admin/network/menu.php:52
+msgid "All Sites"
+msgstr "همۀ جولانماها"
+
+#: wp-admin/includes/network.php:680
+msgid "Once you complete these steps, your network is enabled and configured. You will have to log in again."
+msgstr "وقتی این مرحله را تکمیل کردید، شبکۀ شما تنظیم شده و فعال میگردد. ایجاب ورد دوباره میکند."
+
+#: wp-admin/includes/network.php:545
+msgid "To make your installation more secure, you should also add:"
+msgstr "برای امن ساختن عملیۀ نصب، شما باید موارد ذیل را اضافه کنید:"
+
+#: wp-admin/includes/network.php:440
+msgid "Complete the following steps to enable the features for creating a network of sites."
+msgstr "مراحل ذیل را تکمیل کنید تا خواصل ایجاد شبکۀ جولانما ها را فعال کنید."
+
+#: wp-admin/includes/network.php:439
+msgid "Enabling the Network"
+msgstr "فعال کردن شبکه"
+
+#: wp-admin/includes/network.php:428
+msgid "Please complete the configuration steps. To create a new network, you will need to empty or remove the network database tables."
+msgstr "لطفاً مراحل تنظیمات را تکمیل کنید. برای ایجاد شبکۀ جدید،  خالی ساختن  جداول مخزن شبکه باید خالی یا حذف شوند."
+
+#: wp-admin/includes/network.php:427
+msgid "An existing WordPress network was detected."
+msgstr "یک شبکۀ وردپرس حذف شد."
+
+#: wp-admin/includes/network.php:422
+msgid "The original configuration steps are shown here for reference."
+msgstr "مراحل تنظیمات اصلی در اینجا به عنوان مرجع نشان داده میشوند."
+
+#: wp-admin/includes/network.php:369
+msgid "Your email address."
+msgstr "نشانی ایمیل تان."
+
+#: wp-admin/includes/network.php:360
+msgid "What would you like to call your network?"
+msgstr "شبکۀ تانرا چه میخواید بنامید؟"
+
+#: wp-admin/includes/network.php:356 wp-admin/network/settings.php:153
+msgid "Network Title"
+msgstr "عنوان شبکه"
+
+#: wp-admin/includes/network.php:335
+msgid "Because your installation is not new, the sites in your WordPress network must use sub-domains."
+msgstr "برای اینکه این نصب جدید نیست، باید جولانما ها در شبکۀ وردپرس ان باید نام دمنۀ فرعی باشند."
+
+#: wp-admin/includes/network.php:322
+msgid "Because your installation is in a directory, the sites in your WordPress network must use sub-directories."
+msgstr "برای اینکه این نصب شما در یک فهرست است، جولانما ها در شبکۀ وردپرس تان باید فهرست-فرعی را استفاده کند."
+
+#: wp-admin/includes/network.php:312 wp-admin/includes/network.php:325
+#: wp-admin/includes/network.php:336
+msgid "The main site in a sub-directory installation will need to use a modified permalink structure, potentially breaking existing links."
+msgstr "جولانمای اصفی در فهرست-فرعی نصب نیازبناء دایمی است و بطور بالقوه واصل موجود را خواهد شکست."
+
+#: wp-admin/includes/network.php:297
+msgid "Network Details"
+msgstr "تفصیات شبکه"
+
+#: wp-admin/includes/network.php:269 wp-admin/includes/network.php:283
+#: wp-admin/includes/network.php:343
+msgid "Server Address"
+msgstr "نشانی سرور"
+
+#. translators: 1: Host name.
+#: wp-admin/includes/network.php:251
+msgctxt "subdirectory examples"
+msgid "like <code>%1$s/site1</code> and <code>%1$s/site2</code>"
+msgstr "مثل <code>%1$s/site1</code> و <code>%1$s/site2</code>"
+
+#: wp-admin/includes/network.php:246
+msgid "Sub-directories"
+msgstr "فهرست-فرعی ها"
+
+#. translators: 1: Host name.
+#: wp-admin/includes/network.php:239
+msgctxt "subdomain examples"
+msgid "like <code>site1.%1$s</code> and <code>site2.%1$s</code>"
+msgstr "مثل <code>site1.%1$s</code> و <code>site2.%1$s</code>"
+
+#: wp-admin/includes/network.php:234
+msgid "Sub-domains"
+msgstr "نام دامنۀ-فرعی"
+
+#: wp-admin/includes/network.php:230
+msgid "You will need a wildcard DNS record if you are going to use the virtual host (sub-domain) functionality."
+msgstr "به رکورد wildcard DNS نیاز است در صورتیکه قابلت میزبانی مجازی (نام دامنۀ-فرعی)."
+
+#: wp-admin/includes/network.php:227
+msgid "Addresses of Sites in your Network"
+msgstr "نشانی‌های جولانماها در شبکه شما"
+
+#: wp-admin/includes/network.php:195
+msgid "Note:"
+msgstr "نکته:"
+
+#: wp-admin/includes/network.php:182
+msgid "Fill in the information below and you&#8217;ll be on your way to creating a network of WordPress sites. We will create configuration files in the next step."
+msgstr "اطلاعات ذیل را را تکمیل کنید و ضمینه برای ایجاد شبکۀ جولانما های وردپرس فراهم میگردد. ملف تنظیمات در مرحلۀ بعدی انجام میدهیم."
+
+#: wp-admin/includes/network.php:181
+msgid "Welcome to the Network installation process!"
+msgstr "به عملیۀ نصب شبکه خوش آمدید!"
+
+#: wp-admin/includes/network.php:160
+msgid "Error: The network could not be created."
+msgstr "خطاء: شبکه ایجاد نشد."
+
+#: wp-admin/includes/network.php:142
+msgid "You cannot install a network of sites with your server address."
+msgstr "شما نمیتوانید شبکۀ جولانما ها را به نشانی سرورتان نصب کنید."
+
+#: wp-admin/includes/network.php:133
+msgid "Once the network is created, you may reactivate your plugins."
+msgstr "وقتی شبکه ایجاد شد، شما میتوانید افزونکها را اعادۀ تفعیل کنید."
+
+#. translators: %s: URL to Plugins screen.
+#: wp-admin/includes/network.php:130
+msgid "Please <a href=\"%s\">deactivate your plugins</a> before enabling the Network feature."
+msgstr "قبل از فعال ساختن خاصیت شبکه لطفا <a href=\"%s\">افزونکها را غیر تعطیل کنید</a>."
+
+#: wp-admin/network.php:72
+msgid "Network"
+msgstr "شبکه"
+
+#: wp-admin/network.php:64
+msgid "The choice of subdirectory sites is disabled if this setup is more than a month old because of permalink problems with &#8220;/blog/&#8221; from the main site. This disabling will be addressed in a future version."
+msgstr "بخاطر مشکل با &#8220;/blog/&#8221;  انتخاب جولانما های پوشۀ فرعی چونکه بیشتر از یکماه است غیرفعال شده  است.  این غیرفعال شدن در نسخه های بعد حل خوهد شد."
+
+#: wp-admin/network.php:63
+msgid "Once you add this code and refresh your browser, multisite should be enabled. This screen, now in the Network Admin navigation menu, will keep an archive of the added code. You can toggle between Network Admin and Site Admin by clicking on the Network Admin or an individual site name under the My Sites dropdown in the Toolbar."
+msgstr "هنگامی که این دستورات را افزودید و مرورگرتان را بازخوانی کردید، حالت چند جولانمایی فعال میشود. این صفحه، اکنون در بخش مدیر شبکه، دستورات اضافه‌ شده را آرشیف مییکند. می توانید بین مدیریت شبکه و مدیریت سایت، از طریق کلیک بر روی مدیر شبکه یا نام یک سایت مشخص در فهرست \"جولانما های من\" در لوح ادودت، جابجا شوید."
+
+#: wp-admin/network.php:61
+msgid "The next screen for Network Setup will give you individually-generated lines of code to add to your wp-config.php and .htaccess files. Make sure the settings of your FTP client make files starting with a dot visible, so that you can find .htaccess; you may have to create this file if it really is not there. Make backup copies of those two files."
+msgstr "در صفحهٔ بعدی بری ایجاد یک شبکه خطوط جداگانه‌ای برای شما به نمایش درخواهند آمد که به ملف wp-config.php و .htaccess اضافه کنید. برای این‌کار مطمئن شوید که تنظیمات FTP نرم‌افزار شما، ملف های را که با \" .\" (نقطه) آغاز می‌شوند نمایش می‌دهد، بعد از آن ملف .htaccess را پیدا کنید، ممکن است شما نیاز داشته باشید این ملف را به صورت دستی ایجاد کنید. این دو ملف را احتیاطی بسازید."
+
+#: wp-admin/network.php:60
+msgid "Choose subdomains or subdirectories; this can only be switched afterwards by reconfiguring your installation. Fill out the network details, and click Install. If this does not work, you may have to add a wildcard DNS record (for subdomains) or change to another setting in Permalinks (for subdirectories)."
+msgstr "جولانمای های فرعی یا پوشه-فرعی را انتخاب کنید؛ اینها فقط پس از پیکربندی مجدد نصب قابل تعویض هستند. جزییات شبکه را وارد کنید، و روی نصب کلیک کنید. اگر عمل نمی‌ کند شاید نیاز به اضافه ‌کردن یک wildcard DNS record (برای زیردامنه‌ها) یا تغییر تنظیمات واصلک (برای زیرپوشه ‌ها) باشد."
+
+#: wp-admin/network.php:59
+msgid "This screen allows you to configure a network as having subdomains (<code>site1.example.com</code>) or subdirectories (<code>example.com/site1</code>). Subdomains require wildcard subdomains to be enabled in Apache and DNS records, if your host allows it."
+msgstr "این صفحه به شما اجازه پیکربندی شبکه با دامنه فرعی (<code>site1.example.com</code>) یا پوشه فرعی (<code>example.com/site1</code>) را می‌دهد. زیردامنه‌ها نیازمند فعال‌سازی wildcard در اَپَه چی و ثبت DNS دارد اگر میزبان شما اجازۀ این کار را می‌ دهد."
+
+#: wp-admin/network.php:55
+msgid "Create a Network of WordPress Sites"
+msgstr "ساختن یک شبکه از جولانما ‌های وردپرس"
+
+#: wp-admin/network.php:29
+msgid "The Network creation panel is not for WordPress MU networks."
+msgstr "بخش ساخت شبکه برای شبکه‌های وردپرس چندکاربره (MU) نیست."
+
+#. translators: %s: User login.
+#: wp-admin/network/users.php:77
+msgid "Warning! User cannot be modified. The user %s is a network administrator."
+msgstr "هشدار! شما نمی‌‎توانید اطلاعات این کاربر را تدوین کنید، کاربر %s مدیر شبکه است."
+
+#: wp-admin/network/site-new.php:26
+msgid "If the admin email for the new site does not exist in the database, a new user will also be created."
+msgstr "اگر ایمیل مدیر در مخزن وجود نداشت، کاربر جدید ایجاد میشود."
+
+#: wp-admin/network/sites.php:38
+msgid "The site ID is used internally, and is not shown on the front end of the site or to users/viewers."
+msgstr "هویت جولانما در مراحل داخلی استفاده میشود و درقسمت جلویی و یا برای کاربر و یا مراجعین نشان داده نمیشود."
+
+#: wp-admin/network/sites.php:35
+msgid "Deactivate, Archive, and Spam which lead to confirmation screens. These actions can be reversed later."
+msgstr "تعطیل، آرشیف و مزاحم منجر به نمایش صفحۀ تائیدیه میشود.  این عملیه بعداً معکوس میشود."
+
+#: wp-admin/network/sites.php:32
+msgid "Hovering over each site reveals seven options (three for the primary site):"
+msgstr "بردون نشانگر موش برای هر جولانما  باعث ظاهر شدن هفت اختیار(سه تا برای جولانمای اصلی):"
+
+#: wp-admin/network/settings.php:51
+msgid "Operational settings has fields for the network&#8217;s name and admin email."
+msgstr "در قسمت تنظیمات عملیاتی بخش‌هایی برای نام شبکه و ایمیل مدیر وجود دارد."
+
+#: wp-admin/network/users.php:223
+msgid "The bulk action will permanently delete selected users, or mark/unmark those selected as spam. Spam users will have posts removed and will be unable to sign up again with the same email addresses."
+msgstr "با بهره‌گیری از کارهای دسته‌ جمعی می‌ توان کاربران منتخب را برای همیشه پاک کرد یا به به عنوان مزاحم علامت زد یا از فهرست مزاحم خارج کرد. نوشته‌های کاربران مزاحم پاک خواهد شد و آنها دیگر با ایمیل خود قادر به نام‌نویسی در این جولانما نخواهند بود."
+
+#: wp-admin/network/users.php:221
+msgid "You can also go to the user&#8217;s profile page by clicking on the individual username."
+msgstr "شما میتوانید به هرصفحۀ مشخص  با کلیک کردن بروی نام کاربروید."
+
+#: wp-admin/network/settings.php:54
+msgid "Upload settings control the size of the uploaded files and the amount of available upload space for each site. You can change the default value for specific sites when you edit a particular site. Allowed file types are also listed (space separated only)."
+msgstr "تنظیمات اندازۀ حجم ملفهای رفع شده را و هم حجم فضای اشغال شده توسط جولانما را معین میکند. شما مقادیر پیشفرض را را میتوانید در موقع هر جولانما بطور جداگانه تدوین کنید. همچنان نول ملف ها سجل شده اند (جدا شده توسط فاصله)."
+
+#: wp-admin/network/sites.php:37
+msgid "Visit to go to the front-end site live."
+msgstr "رفتن برای بازدید از صفحۀ زندۀ اصلی "
+
+#: wp-admin/network/users.php:224
+msgid "You can make an existing user an additional super admin by going to the Edit User profile page and checking the box to grant that privilege."
+msgstr "شما میتوانید یک کاربرموجود را  با رفتن به صفحۀ مشخصات تدوین و☑ کردن واعطای صلاحیت یک مدیرعمومی دیگر بسازید."
+
+#: wp-admin/network/user-new.php:23
+msgid "Users who are signed up to the network without a site are added as subscribers to the main or primary dashboard site, giving them profile pages to manage their accounts. These users will only see Dashboard and My Sites in the main navigation until a site is created for them."
+msgstr "کاربرانی که بدون داشتن سایت در شبکه نام‌نویسی میکنند به عنوان مشترک به سایت پیشخوان اصلی اضافه می‌شوند. این کاربران میتوانند با مراجعه به صفحۀ مشخصات خود، حساب کاربری‌ شان را مدیریت کنند. این دسته از کاربران تا زمانی که سایتی برایشان ساخته نشده، تنها قادر به دیدن پیشخوان و بخش سایت‌های من در فهرست مدیریتی هستند."
+
+#: wp-admin/network/users.php:222
+msgid "You can sort the table by clicking on any of the table headings and switch between list and excerpt views by using the icons above the users list."
+msgstr "با کلیک بر روی نشانکهای بالای فهرست کاربران میتوانید جدول‌ها را ترتیب کنید. با انتخاب نمادهای بالای سمت چپ جدول، نوع نمایش فهرست‌وار به خلاصه یا بالعکس تغییر می‌کند."
+
+#: wp-admin/network/users.php:219
+msgid "This table shows all users across the network and the sites to which they are assigned."
+msgstr "این جدول همهٔ کاربران شبکه و سایت‌هایی که به آنها اختصاص داده شده را نشان می‌دهد."
+
+#: wp-admin/network/upgrade.php:25
+msgid "If this process fails for any reason, users logging in to their sites will force the same update."
+msgstr "اگر این  عملیه به هر دلیلی انجام نشود، کاربران هنگامی که به سایت خودشان وارد میشوند به اجبار همین تجدید را باید انجام دهند."
+
+#: wp-admin/network/upgrade.php:24
+msgid "If a version update to core has not happened, clicking this button won&#8217;t affect anything."
+msgstr "اگر هستهٔ اصلی وردپرس نیازی به به‌روزرسانی ندارد، کلیک کردن این دکمه هیچ تأثیری نخواهد داشت."
+
+#: wp-admin/network/themes.php:300
+msgid "If the network admin disables a theme that is in use, it can still remain selected on that site. If another theme is chosen, the disabled theme will not appear in the site&#8217;s Appearance > Themes screen."
+msgstr "اگر مدیر شبکه، نگارنما را که در حال استفاده است غیرفعال کند، آن نگارنما میتواند همچنان روی آن سایت باقی بماند. اگر نگارنمای دیگری انتخاب شود، نگارنمای غیرفعال دیگر در سایت در قسمت نمایش > نگارنما نمایش داده نخواهد شد."
+
+#: wp-admin/network/themes.php:299
+msgid "This screen enables and disables the inclusion of themes available to choose in the Appearance menu for each site. It does not activate or deactivate which theme a site is currently using."
+msgstr "این صفحه امکان فهرست شدن نگارنما ‌های موجود را به منظور انتخاب شدن از بخش نمایش سایت‌های زیرمجموعه فراهم میسازد. یادآوری می‌شود که به کارگیری این خاصبت سبب فعال یا غیرفعال شدن نگارنمای فعلی سایت‌های زیر مجموعه نمیشود."
+
+#: wp-admin/network/sites.php:31
+msgid "This is the main table of all sites on this network. Switch between list and excerpt views by using the icons above the right side of the table."
+msgstr "این جدول اصلی همهٔ سایت‌های این شبکه است. با کلیک روی نمادهای بالای سمت چپ جدول نوع نمایش فهرست‌وار به خلاصه یا بالعکس تغییر میکند."
+
+#: wp-admin/network/settings.php:56
+msgid "Menu setting enables/disables the plugin menus from appearing for non super admins, so that only super admins, not site admins, have access to activate plugins."
+msgstr "از طریق تنظیمات فهرست‌ها میتوان امکان نمایش فهرست افزونه‌ها را برای کاربرانی غیر از مدیران عمومی، فعال/غیرفعال نمود. در این صورت تنها مدیران عمومی، نه مدیران جولانما، به بخش فعال‌سازی افزونه‌ها دسترسی خواهند داشت."
+
+#: wp-admin/network/settings.php:53
+msgid "New site settings are defaults applied when a new site is created in the network. These include welcome email for when a new site or user account is registered, and what&#8127;s put in the first post, page, comment, comment author, and comment URL."
+msgstr "بعد از این که جولانمای تازه‌ای در شبکه ساخته میشود، تنظیمات پیشفرض جولانما‌های جدید در مورد آن اعمال می‌شود. برخی از این تنظیمات عبارتند از: ایمیل خوش‌آمدگویی بعد از ثبت جولانما یا حساب کاربری جدید، متن اولین مشارکه، صفحه ونظر، نویسنده اولین نظر و نشانی اولین نظر."
+
+#: wp-admin/network/settings.php:52
+msgid "Registration settings can disable/enable public signups. If you let others sign up for a site, install spam plugins. Spaces, not commas, should separate names banned as sites for this network."
+msgstr "با استفاده از تنظیمات نام‌نویسی میتوانبد نام‌نویسی عمومی را فعال/غیرفعال کنید. اگر به دیگران اجازه نام‌نویسی می‌دهید، افزونه‌های ضد مزاحم نصب کنید. بین نام‌هایی که به عنوان سایت‌های ممنوعه در شبکه تعیین می‌کنید، از کلید فاصله به جای ویرگول استفاده کنید."
+
+#: wp-admin/network/settings.php:50
+msgid "This screen sets and changes options for the network as a whole. The first site is the main site in the network and network options are pulled from that original site&#8217;s options."
+msgstr "در این صفحه می‌توانید تنظیمات کل شبکه را تعیین کنید و آن‌ها را تغییر دهید. اولین جولانما، جولانما اصلی شبکه است. تنظیمات شبکه از تنظیمات جولانمای اصلی پیروی میکند."
+
+#. translators: %s: Reserved names list.
+#: wp-admin/network/site-new.php:59
+msgid "The following words are reserved for use by WordPress functions and cannot be used as blog names: %s"
+msgstr "کلمات ذیل مخصوص استفادۀ داخلی وردپرس اند و نمیتوانید از آنها در نام‌گذاری بلاگ استفاده کنید: %s"
+
+#: wp-admin/network/upgrade.php:124
+msgid "If your browser doesn&#8217;t start loading the next page automatically, click this link:"
+msgstr "اگر مرورگر شما صفحۀ بعدی را بطور خودکار نشان داد، بروی این واصل کلیک کنید:"
+
+#: wp-admin/network/settings.php:284
+msgid "If you want to ban domains from site registrations. One domain per line."
+msgstr "درصورتی که می‌خواهید نام‌نویسی جولانما را از دامنه‌هایی مسدود نمایید. یک دامنه در هر خط."
+
+#: wp-admin/network/settings.php:266
+msgid "If you want to limit site registrations to certain domains. One domain per line."
+msgstr "در صورتی که میتواهید نام‌نویسی‌های جولانما را، محدود به دامنه‌های مشخصی نمایید. یک دامنه در هر خط."
+
+#: wp-admin/network/site-new.php:40
+msgid "Can&#8217;t create an empty site."
+msgstr "ایجاد جولانمای خالی  ممکن نیست."
+
+#: wp-admin/network/users.php:256
+msgid "Users removed from spam."
+msgstr "کاربر از مزاحمین کشیده شد."
+
+#: wp-admin/network/sites.php:338
+msgid "Site marked as spam."
+msgstr "جولانما به عنوان مزاحم علامت زده شد."
+
+#: wp-admin/network/sites.php:335
+msgid "Site removed from spam."
+msgstr "جولانما از مزاحمین خارج شد."
+
+#: wp-admin/network/sites.php:311
+msgid "Sites marked as spam."
+msgstr "جولانماها به عنوان مزاحم علامت زده شد."
+
+#: wp-admin/network/sites.php:308
+msgid "Sites removed from spam."
+msgstr "جولانماها از جملۀ مزاحمین خارج شد."
+
+#: wp-admin/network/users.php:259
+msgid "Users deleted."
+msgstr "کابران حذف شدند."
+
+#: wp-admin/network/users.php:253
+msgid "Users marked as spam."
+msgstr "کاربران به حیث مزاحم علامت زده شدند."
+
+#: wp-admin/network/sites.php:332
+msgid "Site deactivated."
+msgstr "جولانما تعطیل شد."
+
+#: wp-admin/network/sites.php:329
+msgid "Site activated."
+msgstr "جولانما فعال شد."
+
+#: wp-admin/network/sites.php:326
+msgid "Site unarchived."
+msgstr "جولانما از حالت آرشیف خارج شد."
+
+#: wp-admin/network/sites.php:323
+msgid "Site archived."
+msgstr "جولانما آرشیف شد."
+
+#: wp-admin/network/sites.php:317
+msgid "Site deleted."
+msgstr "جولانما حذف شد."
+
+#: wp-admin/network/sites.php:314
+msgid "Sites deleted."
+msgstr "جولانماها حذف شدند."
+
+#: wp-admin/network/sites.php:105 wp-admin/network/sites.php:223
+msgid "Sorry, you are not allowed to change the current site."
+msgstr "میبخشید، شما حق ندارید که جولانمای کنونی را تغیر دهید."
+
+#: wp-admin/network/site-new.php:126
+msgid "There was an error creating the user."
+msgstr "در ایجاد کاربر خطائی رخ داد."
+
+#: wp-admin/network/settings.php:392
+msgid "Upload file types"
+msgstr "انواع ملف برای رفع"
+
+#. translators: %s: Number of megabytes to limit uploads to.
+#: wp-admin/network/settings.php:380
+msgid "Limit total size of files uploaded to %s MB"
+msgstr "حجم کل ملفهای رفع شده به %s میگابایت"
+
+#: wp-admin/network/settings.php:366
+msgid "The URL for the first comment on a new site."
+msgstr "موقعیت برای اولین نظر در جولانمای جدید."
+
+#: wp-admin/network/settings.php:348
+msgid "The author of the first comment on a new site."
+msgstr "مؤلف اولین نظر در جولانمای جدید."
+
+#: wp-admin/network/settings.php:339
+msgid "The first comment on a new site."
+msgstr "اولین نظر در جولانمای جدید."
+
+#: wp-admin/network/settings.php:329
+msgid "The first page on a new site."
+msgstr "اولین صفحه در جولانمای جدید."
+
+#: wp-admin/network/settings.php:319
+msgid "The first post on a new site."
+msgstr "اولین مشارکه در جولانمای جدید"
+
+#: wp-admin/network/upgrade.php:73
+msgid "All done!"
+msgstr "همه چیز انجام شد!"
+
+#: wp-admin/network/settings.php:206
+msgid "Both sites and user accounts can be registered"
+msgstr "جولانماها و حساب‌های کاربری قابل ثبت هستند"
+
+#: wp-admin/network/settings.php:205
+msgid "Logged in users may register new sites"
+msgstr "کاربرانی که به حساب کاربری خود وارد شده‌اند میتوانند جولانما‌های تازه ثبت کنند"
+
+#: wp-admin/network/settings.php:204
+msgid "User accounts may be registered"
+msgstr "ممکن است حساب‌های کاربری  ثبت شده باشند"
+
+#: wp-admin/network/settings.php:203
+msgid "Registration is disabled"
+msgstr "نام‌ نویسی غیرفعال شده است"
+
+#: wp-admin/network/settings.php:476
+msgid "Enable administration menus"
+msgstr "فعال سازی قائم مدیریت"
+
+#: wp-admin/network/settings.php:371
+msgid "Upload Settings"
+msgstr "تنظیمات رفع"
+
+#: wp-admin/network/settings.php:290
+msgid "New Site Settings"
+msgstr "تنظیمات سایت جدید"
+
+#: wp-admin/network/settings.php:190
+msgid "Registration Settings"
+msgstr "تنظیمات ثبت نام"
+
+#: wp-admin/network/settings.php:150
+msgid "Operational Settings"
+msgstr "تنظیمات عملیات"
+
+#: wp-admin/network/site-new.php:91
+msgid "Missing email address."
+msgstr "نشان ایمیل مفقود است."
+
+#: wp-admin/network/site-new.php:87
+msgid "Missing or invalid site address."
+msgstr "موقعتیت جولانما مفقود یا باطل است."
+
+#: wp-admin/network/upgrade.php:124
+msgid "Next Sites"
+msgstr "جولانمای بعدی"
+
+#: wp-admin/network/settings.php:374
+msgid "Site upload space"
+msgstr "فضا رفع برای جولانما"
+
+#: wp-admin/network/settings.php:299
+msgid "The welcome email sent to new site owners."
+msgstr "ایمیل خوش آمدی به صاحبان جولانما های جدید ارسال شد."
+
+#: wp-admin/network/settings.php:247
+msgid "Users are not allowed to register these sites. Separate names by spaces."
+msgstr "کاربران حق ندارند که این جولانما ها را ثبت کنند. نامها را به فاصله از هم جدا کنید."
+
+#: wp-admin/network/settings.php:231
+msgid "Send the network admin an email notification every time someone registers a site or user account"
+msgstr "هروقتیکه کاربر جدیدی یا جولانمای جدیدی ثبت نام میکند، برای مدیر شبکه  یک ایمیل اعلامیه ارسال شود."
+
+#: wp-admin/includes/network.php:365 wp-admin/network/settings.php:160
+msgid "Network Admin Email"
+msgstr "ایمیل مدیر شبکه"
+
+#: wp-admin/network/site-new.php:263
+msgid "A new user will be created if the above email address is not in the database."
+msgstr "یک کاربرجدید ایجاد میشود درصوریتکه ایمیل فوق در مخزن موجود نباشد."
+
+#: wp-admin/network/site-new.php:259
+msgid "Admin Email"
+msgstr "ایمیل مدیر"
+
+#: wp-admin/network/site-new.php:275
+msgid "Add Site"
+msgstr "افزودن سایت"
+
+#: wp-admin/network/settings.php:426
+msgid "Default Language"
+msgstr "زبان پیشفرض"
+
+#: wp-admin/network/settings.php:402
+msgid "Max upload file size"
+msgstr "حداکثر حجم ملف رفع"
+
+#: wp-admin/network/settings.php:362
+msgid "First Comment URL"
+msgstr "موقعیت اولین نظر"
+
+#: wp-admin/network/settings.php:344
+msgid "First Comment Author"
+msgstr "مؤلف اولین نظر"
+
+#: wp-admin/network/settings.php:334
+msgid "First Comment"
+msgstr "اولین نظر"
+
+#: wp-admin/network/settings.php:324
+msgid "First Page"
+msgstr "اولین صفحه"
+
+#: wp-admin/network/settings.php:309
+msgid "The welcome email sent to new users."
+msgstr "ایملی خوش آمدگویی برای کاربران جدید ارسال شد."
+
+#: wp-admin/network/settings.php:304
+msgid "Welcome User Email"
+msgstr "ایمیل خوش آمد گویی کاربر"
+
+#: wp-admin/network/settings.php:294
+msgid "Welcome Email"
+msgstr "ایمیل خوش آمدگویی"
+
+#: wp-admin/network/settings.php:272
+msgid "Banned Email Domains"
+msgstr "دامنه های ایمیل ممنوع شده"
+
+#: wp-admin/network/settings.php:253
+msgid "Limited Email Registrations"
+msgstr "محدودیت ایمیل نام‌ نویسی"
+
+#: wp-admin/network/settings.php:243
+msgid "Banned Names"
+msgstr "نام‌های غیرمجاز"
+
+#: wp-admin/network/settings.php:236
+msgid "Add New Users"
+msgstr "افزودن کاربران تازه"
+
+#: wp-admin/network/settings.php:224
+msgid "Registration notification"
+msgstr "مخبر(خبر دهنده) ثبت نام"
+
+#: wp-admin/network/settings.php:193
+msgid "Allow new registrations"
+msgstr "اجازه ثبت نام جدید"
+
+#: wp-admin/network/site-users.php:267
+msgid "Duplicated username or email address."
+msgstr "تکثیر نام کاربر یا نشانی ایمیل"
+
+#: wp-admin/network/user-new.php:41
+msgid "Cannot create an empty user."
+msgstr "کاربری خالی ایجاد نمیشود"
+
+#: wp-admin/network/sites.php:121 wp-admin/network/sites.php:208
+msgid "Confirm"
+msgstr "تائید"
